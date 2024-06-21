@@ -10,6 +10,6 @@ First clone this repository
 git clone https://github.com/Thezone-1/TaskyForm_App.git
 ```
 
-Studio to launch the app
+Now use Visual Studio to launch the app
 
-Optionally you can directly import this to your Visual Studio via the same clone link.
+Optionally you can directly import this to your Visual Studio Run the app By pressing F7 or the run button, To use the app properly, the backend server should be up and running. So first setup the server locally.
