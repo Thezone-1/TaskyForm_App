@@ -1,4 +1,4 @@
-# FormlyApp_Core
+# TaskyForm_App
 
 FormlyApp is a desktop app which is a form app similar to that of google forms. It's made of Visual Basic and .NET framework. It's fast and easy to use.
 
